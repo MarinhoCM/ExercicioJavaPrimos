@@ -1,4 +1,4 @@
-# ExercicioJavaPrimos
+# Exercicio Java Primos
 <ul><strong>
 <li>Escreva uma classe chamada “Primos” que tenha um método para identificar se um
 determinado número é primo.</li><li>Acrescente a classe “Primo” um método que receba dois
