@@ -47,7 +47,7 @@ public class Primos {
        
         if(iinicial > ifinal){//mensagem de erro caso o primeiro número seja menor que o segundo.
             System.out.println("Impossivel fazer essa operação!");
-            System.out.println("O primeiro número deve ser maior que o Segundo!");
+            System.out.println("O primeiro número deve ser menor que o Segundo!");
         }
     }    
 }        
